@@ -1,0 +1,2 @@
+# Estacionamento Typescript
+Esse projeto é um desafio do bootcamp da Spread na DIO.me , nao possui estilizaçao ( pretendo adicionar no futuro ) e é apenas um projeto com html e typescript para um controle de estacionamento.
